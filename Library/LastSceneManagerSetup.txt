@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/arfoundation-samples-7f33eca8720ce7ee8e52fc6494810e2a15c93929/arfoundation-samples-7f33eca8720ce7ee8e52fc6494810e2a15c93929/Assets/Scenes/UX/SampleUXScene.unity
+  isLoaded: 1
+  isActive: 1
